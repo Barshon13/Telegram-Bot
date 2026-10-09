@@ -1,0 +1,27 @@
+# ==============================================================================
+# All-in-One Social Media Downloader & AI Assistant Telegram Bot
+# Production Pin-Compatible Dependencies (Python 3.10+)
+# Optimized for BotKeep Container (2GB RAM / 150% CPU / 2GB Disk)
+# ==============================================================================
+
+# Core Async Telegram Bot Framework
+aiogram>=3.17.0,<4.0.0
+
+# Official Google GenAI SDK (Gemini 2.5 Flash)
+google-genai>=1.0.0
+
+# Media Extraction & Streaming Engine (Regularly updated for cipher/signature fixes)
+yt-dlp>=2025.2.19
+
+# Async HTTP Client & Network Stack
+aiohttp>=3.11.12
+aiofiles>=24.1.0
+
+# Environment Variable & Config Management
+python-dotenv>=1.0.1
+pydantic-settings>=2.7.1
+pydantic>=2.10.6
+
+# System & Media Utilities
+certifi>=2024.12.14
+typing-extensions>=4.12.2

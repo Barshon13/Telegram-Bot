@@ -1,0 +1,6 @@
+{
+  "name": "OmniMedia Bot Architect & Telegram Suite",
+  "description": "Production-ready Python codebase, architecture, and interactive simulator for an All-in-One Social Media Downloader and Gemini AI Assistant Telegram Bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
